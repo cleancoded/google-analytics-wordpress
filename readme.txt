@@ -5,7 +5,7 @@ Requires at least: 3.1
 Tested up to: 4.0
 Stable tag: 1.4.1
 
-Easily integrate <a href="http://analytics.google.com">Google Analytics</a> with WordPress to track website statistics
+Easily integrate Google Analytics with WordPress to track website statistics
 
 == Description ==
 
